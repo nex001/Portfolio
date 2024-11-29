@@ -6,8 +6,9 @@ body{
     background-color: #eeeeee !important;
 }
 .bg-image{
+    top: 0 !important;
     height: 100 vh !important;
-    z-index: -2 !important;
+    z-index: -3 !important;
     filter: blur(1px);
   -webkit-filter: blur(1px);
 }
@@ -48,6 +49,6 @@ body{
 }
 
 /* navbar */
-#nav-pan{
+/* #nav-pan{
     transition: all 0.5s;
-}
+} */
