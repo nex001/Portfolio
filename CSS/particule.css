@@ -1,0 +1,10 @@
+#particles-js{
+  width: 100%;
+  height: 100vh;
+  background-color: #002046;
+  /* background-image: url('/Images/BG-1-crop.jpg'); */
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  z-index: 100 !important;
+}
